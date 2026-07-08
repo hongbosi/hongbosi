@@ -35,7 +35,8 @@ I enjoy building pratical cyber security project that demostrate real world skil
 - CompTIA Security+ (in progress)
   ## Education
   IGNATIUS AJURU UNIVERSITY OF EDUCATION
-   NIIT PORT  HARCOURT: CYBER SECURITY PROGRAM
+  NIIT PORT  HARCOURT:
+  CYBER SECURITY PROGRAM
   ## Contact
   gbosiprince0@gmail.com
   princegbosi@yahoo.com
