@@ -1,16 +1,43 @@
-## Hi there 👋
-
-<!--
-**hongbosi/hongbosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Prince Gbosi Barilunanee 
+## about Me 
+I am a cyber security student at NIIT portharcourt partionate offensive and deffensive cyber security 
+I enjoy building pratical cyber security project that demostrate real world skills in :
+- Penetration Testing
+- Log Analysis
+- Malware analysis
+- Digital Forensic
+- OSINT
+- TREAT Hunting
+- ## Projects
+## Project                 |   Description                                           |   Rpositary 
+ OSINT Investigation          Conducted an OSINT Investigaton on a target system        Coming soon
+ Log Analysis                 Analysis IIS and Windows Event log to identify attacks    coming soon 
+ ## Skills 
+ ### Operating System 
+ - Windows
+ - Linux
+ - Networking
+ - TCP/IP
+ - DNS
+ - HTTP
+ - FTP
+ - SSH
+ - TELNET
+### Cyber security tools 
+- Nmap
+- WIRESHARK
+- Burp suit
+- metasploit
+- Git
+- GitHub
+## certification
+- ISC2 certified in cybersecurity
+- CompTIA Security+ (in progress)
+  ## Education
+  IGNATIUS AJURU UNIVERSITY OF EDUCATION
+   NIIT PORT  HARCOURT: CYBER SECURITY PROGRAM
+  ## Contact
+  gbosiprince0@gmail.com
+  princegbosi@yahoo.com
+  facebook: Gbosi prince Barilunanee
+  @Cyberwithprice5 
