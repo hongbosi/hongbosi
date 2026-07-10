@@ -1,5 +1,5 @@
 Hi, I'm Prince Gbosi Barilunanee 
-## about Me 
+## About Me 
 I am a Cyber Security Student at NIIT Port Harcourt passionate about offensive and Deffensive Cyber Security. 
 I enjoy Building Pratical Cybersecurity Project that Demostrate real world skills in :
 - Penetration Testing
@@ -14,8 +14,8 @@ Thanks for visiting my profile. feel free to explore my repositories and follow 
  
 - ## Projects
 ## Project                 |   Description                                           |   Rpositary 
- OSINT Investigation          Conducted an OSINT Investigaton on a target system        Coming soon
- Log Analysis                 Analysis IIS and Windows Event log to identify attacks    coming soon 
+ OSINT Investigation       |   Conducted an OSINT Investigaton on a target system    |    Coming soon
+ Log Analysis              |   Analysis IIS and Windows Event log to identify attacks |   coming soon 
  ## Skills 
  ### Operating System 
  - Windows
